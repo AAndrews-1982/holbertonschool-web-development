@@ -455,6 +455,8 @@ html, body {
     font-family: 'Source Sans Pro';
     font-weight: 600;
     cursor: pointer;
+    box-shadow: none;
+    border: none;
 }
 
 /* FAQ Section */ 
