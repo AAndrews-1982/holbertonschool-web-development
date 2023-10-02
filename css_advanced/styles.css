@@ -430,6 +430,8 @@ html, body {
 .smile {
     position: relative;
     left: 100px;
+    width: 30px;
+    height: 30px;
 }
 
 .button2 {
