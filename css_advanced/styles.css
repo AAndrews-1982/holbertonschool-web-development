@@ -259,7 +259,7 @@ html, body {
 }
 
 .back {
-    width: 100%;
+    width: 261px;
     height: 391px;
     top: 0px;
     left: 100px;
@@ -267,11 +267,10 @@ html, body {
     background: white;
     box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
     border-radius: 5px;
-    object-fit: cover;
 }
 
 .back2 {
-    width: 261px;
+    width: 361px;
     height: 391px;
     left: 400px;
     top: 0px;
