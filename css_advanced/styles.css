@@ -100,7 +100,7 @@ html, body {
     transform: translateX(-50%); /* Corrects horizontal centering */
     /* Vertical Positioning */
     top: 50%; /* Centers vertically */
-    transform: translateY(-50%, -50%); /* Corrects vertical centering */
+    transform: translateY(-150%); /* Corrects vertical centering */
     color: white;
     font-size: 14px;
     font-family: 'Source Sans Pro';
