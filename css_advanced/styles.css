@@ -462,7 +462,7 @@ html, body {
 /* FAQ Section */ 
 
 
-.FAQ1 {
+.FAQ Section {
     width: 1540px;
     height: 900px;
     background: #FFF;
@@ -471,13 +471,14 @@ html, body {
     margin-bottom: 5px;
 }
 
-.Faq {
+.FaqTitle {
     text-align: center;
     color: #071629;
     font-size: 60px;
     font-family: 'Source Sans Pro';
     font-weight: 300;
     word-wrap: break-word;
+    padding-top: 30px;
 
 }
 
