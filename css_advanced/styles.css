@@ -258,7 +258,7 @@ html, body {
 }
 
 .back {
-    width: 255px;
+    width: 455px;
     height: 335px;
     top: 0px;
     left: 100px;
@@ -269,7 +269,7 @@ html, body {
 }
 
 .back2 {
-    width: 255px;
+    width: 455px;
     height: 335px;
     left: 400px;
     top: 0px;
@@ -313,7 +313,7 @@ html, body {
 }
 
 .person1 {
-    width: 750px;
+    width: 30px;
     height: 30px;
     left: 10px;
     position: relative;
@@ -460,7 +460,10 @@ html, body {
     cursor: pointer;
 }
 
+
+
 /* FAQ Section */ 
+
 
 
 .FAQ1 {
