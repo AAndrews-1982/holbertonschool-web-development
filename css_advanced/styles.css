@@ -92,7 +92,7 @@ html, body {
     width: 162px;
     height: 44px;
     flex-shrink: 0;
-    border-radius: 22px;
+    border-radius: 10px;
     background: #C271FF;
     /* Horizontal Positioning */
     position: absolute;
@@ -246,7 +246,7 @@ html, body {
 .titlep2 {
     text-align: center;
     margin-bottom: 100px;
-    margin-top: 0px;
+    margin-top: 30px;
 }
 
 .titlep2  span{
@@ -424,18 +424,17 @@ html, body {
     font-family: 'Source Sans Pro'; 
     font-weight: 600; 
     line-height: 26px;
-     word-wrap: break-word;
+    word-wrap: break-word;
+    margin: 0 auto; /* Center horizontally */
 }
 
 .smile {
     width: 30px; /* Set the desired width */
     height: 30px; /* Set the desired height */
-    position: relative;
-    left: 40px;
-}
-
-    position: relative;
-    left: 40px;
+    position: absolute;
+    top: 50%; /* Vertically center */
+    left: 50%; /* Horizontally center */
+    transform: translate(-50%, -50%); /* Center using transform */
 }
 
 .button2 {
