@@ -96,10 +96,10 @@ html, body {
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.50);
     /* Horizontal Positioning */
     position: absolute;
-    left: 55%; /* Centers horizontally */
+    left: 48%; /* Centers horizontally */
     transform: translateX(-50%); /* Corrects horizontal centering */
     /* Vertical Positioning */
-    top: 47%; /* Centers vertically */
+    top: 37%; /* Centers vertically */
     transform: translateY(-150%); /* Corrects vertical centering */
     color: white;
     font-size: 14px;
