@@ -94,7 +94,6 @@ html, body {
     flex-shrink: 0;
     border-radius: 22px;
     background: #C271FF;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.50);
     /* Horizontal Positioning */
     position: absolute;
     left: 46%; /* Centers horizontally */
@@ -281,7 +280,7 @@ html, body {
 }
 
 .back3 {
-    width: 255px;
+    width: 500px;
     height: 335px;
     left: 700px;
     top: 0px;
@@ -292,7 +291,7 @@ html, body {
 }
 
 .back4 {
-    width: 255px;
+    width: 500px;
     height: 335px;
     left: 1000px;
     overflow-x: hidden;
@@ -430,7 +429,7 @@ html, body {
 
 .smile {
     position: relative;
-    left: 100px;
+    left: 40px;
 }
 
 .button2 {
