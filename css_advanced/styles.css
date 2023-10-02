@@ -280,7 +280,7 @@ html, body {
 }
 
 .back3 {
-    width: 500px;
+    width: 255px;
     height: 335px;
     left: 700px;
     top: 0px;
@@ -291,7 +291,7 @@ html, body {
 }
 
 .back4 {
-    width: 500px;
+    width: 255px;
     height: 335px;
     left: 1000px;
     overflow-x: hidden;
@@ -313,10 +313,10 @@ html, body {
 }
 
 .person1 {
-    width: 30px;
+    width: 750px;
     height: 30px;
     left: 10px;
-    position: absolute;
+    position: relative;
     border-radius: 50%; /* Create a circular border */
 }
 
@@ -367,7 +367,12 @@ html, body {
     opacity: 0.86;
 }
 
+
+
+
 /* Section Membership */
+
+
 
 .Membership {
     width: 1550px;
@@ -431,7 +436,7 @@ html, body {
 .smile {
     width: 30px; /* Set the desired width */
     height: 30px; /* Set the desired height */
-    position: absolute;
+    position: relative;
     top: 50%; /* Vertically center */
     left: 50%; /* Horizontally center */
     transform: translate(-50%, -50%); /* Center using transform */
