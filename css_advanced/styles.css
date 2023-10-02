@@ -113,12 +113,12 @@ html, body {
     font-size: 32px;
     font-family: 'Source Sans Pro';
     font-weight: 700;
-    left: -20px
 }
 
 .flex-container {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .head2 {
@@ -130,6 +130,7 @@ html, body {
     justify-content: center;
     margin-top: 150px;
     margin-left: 50px;
+    text-align: center;
 }
 
 .person-box {
