@@ -238,9 +238,7 @@ html, body {
 
 .Part2Tutorials {
     width: 1228px;
-    height: 450px;
-    top: 1572px;
-    left: 106px;
+    height: 850px;
     position: relative;
     margin-top: 5px;
 }
@@ -272,7 +270,7 @@ html, body {
 }
 
 .back2 {
-    width: 261px;
+    width: 361px;
     height: 391px;
     left: 400px;
     top: 0px;
