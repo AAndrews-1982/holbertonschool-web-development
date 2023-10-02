@@ -229,12 +229,24 @@ html, body {
 
 /* Section Tutorials - Videos */
 
+
+
+.back4 {
+    width: 100%; /* Set the width to 100% to span the entire container horizontally */
+    height: auto; /* Allow the height to adjust based on the image's aspect ratio */
+    top: 0;
+    position: absolute;
+    background: white;
+    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
+    border-radius: 5px;
+}
+
+
 .video-block {
     width: 1540px;
     height: 800px;
     background: #FFF;
 }
-
 
 .Part2Tutorials {
     width: 1228px;
@@ -270,7 +282,7 @@ html, body {
 }
 
 .back2 {
-    width: 361px;
+    width: 261px;
     height: 391px;
     left: 400px;
     top: 0px;
@@ -292,15 +304,7 @@ html, body {
 }
 
 .back4 {
-    width: 261px;
-    height: 391px;
-    left: 1000px;
-    overflow-x: hidden;
-    top: 0px;
-    position: absolute;
-    background: white;
-    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
-    border-radius: 5px;
+left: 1000px;
 }
 
 .PhillipMassey {
