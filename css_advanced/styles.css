@@ -249,12 +249,13 @@ html, body {
     margin-top: 0px;
 }
 
-.titlep2  span{
+.titlep2 {
     color: #C271FF;
     font-size: 32px;
     font-family: Source Sans Pro;
     font-weight: 700;
     word-wrap: break-word;
+    padding-top: 20px;
 }
 
 .back {
