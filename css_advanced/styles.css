@@ -428,6 +428,12 @@ html, body {
 }
 
 .smile {
+    width: 30px; /* Set the desired width */
+    height: 30px; /* Set the desired height */
+    position: relative;
+    left: 40px;
+}
+
     position: relative;
     left: 40px;
 }
