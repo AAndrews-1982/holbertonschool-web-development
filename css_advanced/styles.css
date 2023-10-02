@@ -238,7 +238,9 @@ html, body {
 
 .Part2Tutorials {
     width: 1228px;
-    height: 850px;
+    height: 450px;
+    top: 1572px;
+    left: 106px;
     position: relative;
     margin-top: 5px;
 }
