@@ -258,8 +258,8 @@ html, body {
 }
 
 .back {
-    width: 255px;
-    height: 335px;
+    width: 261px;
+    height: 391px;
     top: 0px;
     left: 100px;
     position: absolute;
@@ -269,8 +269,8 @@ html, body {
 }
 
 .back2 {
-    width: 255px;
-    height: 335px;
+    width: 261px;
+    height: 391px;
     left: 400px;
     top: 0px;
     position: absolute;
@@ -280,8 +280,8 @@ html, body {
 }
 
 .back3 {
-    width: 255px;
-    height: 335px;
+    width: 261px;
+    height: 391px;
     left: 700px;
     top: 0px;
     position: absolute;
@@ -291,8 +291,8 @@ html, body {
 }
 
 .back4 {
-    width: 255px;
-    height: 335px;
+    width: 261px;
+    height: 391px;
     left: 1000px;
     overflow-x: hidden;
     top: 0px;
